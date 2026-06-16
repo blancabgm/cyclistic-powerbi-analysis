@@ -21,3 +21,7 @@ Comprender patrones de uso, estacionalidad, duración de viajes y comportamiento
 - Los fines de semana concentran mayor actividad.  
 - Las bicicletas eléctricas son las más utilizadas.  
 - Existen picos horarios claros (7–9 h y 16–18 h).  
+
+## 📁 Nota sobre el archivo .pbix
+El archivo original de Power BI no se incluye en este repositorio debido a su tamaño.  
+Puede descargarse desde el enlace disponible en mi portfolio de Notion.
