@@ -30,5 +30,11 @@ Comprender patrones de uso, estacionalidad, duración de viajes y comportamiento
 ### Evolución mensual del número de viajes, Duración media mensual, Uso por tipo de bicicletaUso por tipo de bicicleta y patrones de uso por día y hora (heatmap)
 ![Evolución mensual](images/Visualizacion_2.png)
 
+## 🔗 Portfolio completo
+- [Enlace a Notion](https://www.notion.so/Caso-pr-ctico-1-Cyclistic-37b61cbed09780cda37fc71baa3bab45?source=copy_link)
+- [Notebook Kaggle](https://www.kaggle.com/code/blancagarcamoreno/cyclistic-bike-share-analysis-summary)
+
+
+
 ## 📁 Nota sobre el archivo .pbix
 El archivo original de Power BI no se incluye en este repositorio debido a su tamaño y puede descargarse desde el enlace disponible en mi portfolio de Notion.
